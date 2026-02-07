@@ -1,3 +1,3 @@
 # TCTB_CodeSample
 
-A selection of code I wrote for an indie game project, The Camera That Bleeds. The complete source code is part of a private repo jointly owned by the whole team, but I've pulled some files I worked on to showcase here
+A selection of code I wrote for an indie game project, The Camera That Bleeds. The complete source code is part of a private repo jointly owned by the whole team, but I've pulled some files I worked on to showcase here. Please note that the player character files were worked on collaboratively, though I wrote ~75% of the file. The monster AI files were exclusively my code
